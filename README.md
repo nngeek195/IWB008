@@ -6,7 +6,10 @@ This is a fully functional web application create with #ballerina backend 💃�
 
 - First clone the project  🔗 
 - Install Ballerina to computure.
-- Create a ballerina work space as backend ::{ command - bal new backend  }
+- Create a ballerina work space as backend
+     ```bash
+   bal new backend
+
 - Then replace that created backend folder to clone folder  
 
 ## How Set Up Data Base 
