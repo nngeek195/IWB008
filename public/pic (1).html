@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Towo Tech</title>
+        <!-- style css link -->
+        <link rel="stylesheet" href="css/pic (1).css">
+        <!-- fontawesome css link -->
+        <link rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+            integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+            crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link href="img/favicon.ico" rel="icon">
+
+        <!-- Google Font -->
+        <link
+            href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;800;900&display=swap"
+            rel="stylesheet">
+
+        <!-- CSS Libraries -->
+        <link
+            href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+            rel="stylesheet">
+        <link
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css"
+            rel="stylesheet">
+        <link href="lib/flaticon/font/flaticon.css" rel="stylesheet">
+        <link href="lib/animate/animate.min.css" rel="stylesheet">
+        <link href="lib/owlcarousel/assets/owl.carousel.min.css"
+            rel="stylesheet">
+
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/Home.css" rel="stylesheet">
+        <script
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA519FoYoRCAOUWAjoQHzWRiElfK1ymnU8"></script>
+        <script
+            src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+        <script src="js/user_log_session.js"></script>
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body onload>
+
+        <!-- home section start -->
+        <!-- Nav Bar Start -->
+        <div class="nav-bar">
+            <div class="container">
+                <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+                    <a href="#" class="navbar-brand">MENU</a>
+                    <button type="button" class="navbar-toggler"
+                        data-toggle="collapse" data-target="#navbarCollapse">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div
+                        class="collapse navbar-collapse justify-content-between"
+                        id="navbarCollapse">
+                        <img src="images/picture1.jpg" class="user-pic">
+
+                    </div>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="index.html">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="index.html">About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="index.html">Team</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <!-- Nav Bar End -->
+
+        <div class="home">
+            <div class="container">
+                <div class="home-weapper">
+
+                    <!-- home left start here -->
+                    <div class="home-left">
+                        <br>
+                        <div class="profile">
+                            <img
+                                src="images/us3.png"
+                                alt="user">
+                            <h3 id="username"></h3>
+                        </div>
+                        <br>
+
+                        <div class="group">
+                            <div class="explore">
+
+                                <label>
+                                    <img src="images/gg.png" alt="group01">
+                                    <a href="profile.html">
+                                        FeedBack</a>
+                                </label>
+                                <label onclick="logout()">
+                                    <img src="images/gg2.png">
+
+                                    Logout
+                                </label>
+                                <img src="images/img15.jpg" alt>
+
+                            </div>
+
+                        </div>
+
+                    </div><!-- home left end here -->
+
+                    <!-- home center start here -->
+
+                    <div class="home-center">
+                        <div class="home-center-wrapper">
+
+                            <div class="messenger">
+                                <div class="messenger-search">
+                                    <h4>Garage Location</h4>
+                                    <input type="search" id="city"
+                                        placeholder="Search">
+                                    <button
+                                        onclick="fetchShops()"
+                                        style="padding: 15px; border-color: rgb(255, 255, 255);"><i
+                                            class="fa-solid fa-magnifying-glass"></i></button>
+                                </div>
+                                <button onclick="getLocation()"
+                                    style="background-color: red; color: white;  padding: 10px 20px;
+                                border-radius: 5px;font-size: 0.9rem;">Get My
+                                    Exact
+                                    Location</button>
+                                <br>
+
+                                <!-- Map container where the map will be displayed -->
+                                <div id="map"></div>
+                            </div>
+                            <div id="cityDetail"></div>
+
+                        </div> <!-- home center wrapper end -->
+                    </div> <!-- home center end -->
+
+                    <div>
+                        <div class="home-right-wrapper">
+
+                            <div class="event-friend">
+                                <hr>
+                                <div class="friend">
+                                    <h3 class="heading">Garage Requests</h3>
+                                    <button id="all" class="all">All
+                                    </button>
+                                    <button id="garage"
+                                        class="garage">Garage
+                                    </button>
+                                    <button id="Tyre_houses"
+                                        class="Tyre_houses">Tyre House
+                                    </button>
+                                    <div class="container">
+                                        <h2></h2>
+
+                                        <div id="shops"></div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div><!-- home right wrapper end -->
+                    </div><!-- home right end -->
+
+                </div>
+            </div>
+        </div>
+
+        <!-- home section end -->
+        <script src="js/backend_map.js"></script>
+        <script>
+    var darkButton = document.querySelector(".darkTheme");
+
+    darkButton.onclick = function(){
+        darkButton.classList.toggle("button-Active");
+        document.body.classList.toggle("dark-color")
+    }
+
+</script>
+
+    </body>
+</html>

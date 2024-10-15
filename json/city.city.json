@@ -1,0 +1,2664 @@
+[{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebe5"
+  },
+  "city": "Wellawatte",
+  "latitude": 6.8833,
+  "longitude": 79.9742
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebe6"
+  },
+  "city": "Kollupitiya",
+  "latitude": 6.9271,
+  "longitude": 79.9584
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebe7"
+  },
+  "city": "Fort",
+  "latitude": 6.9271,
+  "longitude": 79.9553
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebe8"
+  },
+  "city": "Pettah",
+  "latitude": 6.9723,
+  "longitude": 79.9587
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebe9"
+  },
+  "city": "Dehiwala",
+  "latitude": 6.8516,
+  "longitude": 79.9772
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebea"
+  },
+  "city": "Mount Lavinia",
+  "latitude": 6.8228,
+  "longitude": 79.9734
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebeb"
+  },
+  "city": "Kalubowila",
+  "latitude": 6.8556,
+  "longitude": 79.9725
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebec"
+  },
+  "city": "Kochchikade",
+  "latitude": 7.0753,
+  "longitude": 79.9639
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebed"
+  },
+  "city": "Katunayake",
+  "latitude": 7.1806,
+  "longitude": 79.9676
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebee"
+  },
+  "city": "Udugampola",
+  "latitude": 7.1875,
+  "longitude": 80.0025
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebef"
+  },
+  "city": "Peliyagoda",
+  "latitude": 6.973,
+  "longitude": 79.957
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebf0"
+  },
+  "city": "Kiribathgoda",
+  "latitude": 6.9733,
+  "longitude": 79.9772
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebf1"
+  },
+  "city": "Kadawatha",
+  "latitude": 6.9522,
+  "longitude": 80.0608
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebf2"
+  },
+  "city": "Panadura",
+  "latitude": 6.7422,
+  "longitude": 79.9875
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebf3"
+  },
+  "city": "Katubedda",
+  "latitude": 6.7775,
+  "longitude": 79.9936
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebf4"
+  },
+  "city": "Rawatawatta",
+  "latitude": 6.7744,
+  "longitude": 79.9956
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebf5"
+  },
+  "city": "Talawathugoda",
+  "latitude": 6.9283,
+  "longitude": 80.0861
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebf6"
+  },
+  "city": "Malabe",
+  "latitude": 6.9325,
+  "longitude": 80.0542
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebf7"
+  },
+  "city": "Pannipitiya",
+  "latitude": 6.9358,
+  "longitude": 80.0964
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebf8"
+  },
+  "city": "Hendala",
+  "latitude": 6.9806,
+  "longitude": 79.9633
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebf9"
+  },
+  "city": "Rajagiriya",
+  "latitude": 6.9294,
+  "longitude": 79.972
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebfa"
+  },
+  "city": "Wijerama",
+  "latitude": 6.9244,
+  "longitude": 79.9781
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebfb"
+  },
+  "city": "Battaramulla",
+  "latitude": 6.9266,
+  "longitude": 80.045
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebfc"
+  },
+  "city": "Kaluwella",
+  "latitude": 6.0147,
+  "longitude": 80.2206
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebfd"
+  },
+  "city": "Boossa",
+  "latitude": 6.0128,
+  "longitude": 80.2158
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebfe"
+  },
+  "city": "Udugama",
+  "latitude": 6.051,
+  "longitude": 80.2743
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cebff"
+  },
+  "city": "Ariyapala",
+  "latitude": 6.1264,
+  "longitude": 80.3819
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec00"
+  },
+  "city": "Thudella",
+  "latitude": 6.0656,
+  "longitude": 80.2117
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec01"
+  },
+  "city": "Galle Road",
+  "latitude": 6.928,
+  "longitude": 79.957
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec02"
+  },
+  "city": "Narigama",
+  "latitude": 6.129,
+  "longitude": 80.2186
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec03"
+  },
+  "city": "Telwatta",
+  "latitude": 6.1303,
+  "longitude": 80.2208
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec04"
+  },
+  "city": "Dodanduwa",
+  "latitude": 6.1181,
+  "longitude": 80.2291
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec05"
+  },
+  "city": "Talpe",
+  "latitude": 6.0517,
+  "longitude": 80.23
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec06"
+  },
+  "city": "Yaddehimulla",
+  "latitude": 6.1336,
+  "longitude": 80.219
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec07"
+  },
+  "city": "Pitiwella",
+  "latitude": 6.048,
+  "longitude": 80.2324
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec08"
+  },
+  "city": "Katudampala",
+  "latitude": 6.0776,
+  "longitude": 80.3321
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec09"
+  },
+  "city": "Moragalla",
+  "latitude": 6.1243,
+  "longitude": 80.2201
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec0a"
+  },
+  "city": "Bopitiya",
+  "latitude": 6,
+  "longitude": 80.25
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec0b"
+  },
+  "city": "Biyagama",
+  "latitude": 6.9862,
+  "longitude": 80.0654
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec0c"
+  },
+  "city": "Ginthota",
+  "latitude": 6.0285,
+  "longitude": 80.2168
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec0d"
+  },
+  "city": "Kumburugamuwa",
+  "latitude": 6.032,
+  "longitude": 80.2295
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec0e"
+  },
+  "city": "Kudaoya",
+  "latitude": 6.15,
+  "longitude": 80
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec0f"
+  },
+  "city": "Kalagedihena",
+  "latitude": 6.95,
+  "longitude": 80.0667
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec10"
+  },
+  "city": "Habarakada",
+  "latitude": 6.8969,
+  "longitude": 80.0125
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec11"
+  },
+  "city": "Kamburugamuwa",
+  "latitude": 6.0213,
+  "longitude": 80.229
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec12"
+  },
+  "city": "Karandeniya",
+  "latitude": 6.1867,
+  "longitude": 80.2236
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec13"
+  },
+  "city": "Wewala",
+  "latitude": 6.1333,
+  "longitude": 80.2063
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec14"
+  },
+  "city": "Kammala",
+  "latitude": 6.0167,
+  "longitude": 80.3833
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec15"
+  },
+  "city": "Yakkala",
+  "latitude": 6.9419,
+  "longitude": 80.0549
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec16"
+  },
+  "city": "Ekala",
+  "latitude": 6.9833,
+  "longitude": 80.1333
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec17"
+  },
+  "city": "Miriswatta",
+  "latitude": 6.9333,
+  "longitude": 80.0667
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec18"
+  },
+  "city": "Ja-Ela",
+  "latitude": 6.9742,
+  "longitude": 80.1556
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec19"
+  },
+  "city": "Mahara",
+  "latitude": 6.9742,
+  "longitude": 80.1275
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec1a"
+  },
+  "city": "Divulapitiya",
+  "latitude": 7.014,
+  "longitude": 80.057
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec1b"
+  },
+  "city": "Peradeniya",
+  "latitude": 7.275,
+  "longitude": 80.598
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec1c"
+  },
+  "city": "Kandy University",
+  "latitude": 7.2788,
+  "longitude": 80.5978
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec1d"
+  },
+  "city": "Hantane",
+  "latitude": 7.2908,
+  "longitude": 80.5944
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec1e"
+  },
+  "city": "Kandy Road",
+  "latitude": 7.2833,
+  "longitude": 80.5833
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec1f"
+  },
+  "city": "Kothmale",
+  "latitude": 7.1828,
+  "longitude": 80.5058
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec20"
+  },
+  "city": "Hatton",
+  "latitude": 6.9675,
+  "longitude": 80.6169
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec21"
+  },
+  "city": "Galigamuwa",
+  "latitude": 7.0465,
+  "longitude": 80.4571
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec22"
+  },
+  "city": "Rambukkana",
+  "latitude": 7.0516,
+  "longitude": 80.4066
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec23"
+  },
+  "city": "Warakapola",
+  "latitude": 7.0515,
+  "longitude": 80.4075
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec24"
+  },
+  "city": "Galewela",
+  "latitude": 7.1771,
+  "longitude": 80.5028
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec25"
+  },
+  "city": "Matale",
+  "latitude": 7.4894,
+  "longitude": 80.6064
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec26"
+  },
+  "city": "Nalanda",
+  "latitude": 7.5081,
+  "longitude": 80.6177
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec27"
+  },
+  "city": "Palapathwela",
+  "latitude": 7.46,
+  "longitude": 80.595
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec28"
+  },
+  "city": "Ibbagamuwa",
+  "latitude": 7.43,
+  "longitude": 80.347
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec29"
+  },
+  "city": "Sigiriya",
+  "latitude": 7.9554,
+  "longitude": 80.7667
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec2a"
+  },
+  "city": "Naula",
+  "latitude": 7.4683,
+  "longitude": 80.5439
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec2b"
+  },
+  "city": "Hettipola",
+  "latitude": 7.4377,
+  "longitude": 80.3812
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec2c"
+  },
+  "city": "Ukuwela",
+  "latitude": 7.3905,
+  "longitude": 80.3742
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec2d"
+  },
+  "city": "Laggala",
+  "latitude": 7.4056,
+  "longitude": 80.6042
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec2e"
+  },
+  "city": "Grand Hotel",
+  "latitude": 6.9646,
+  "longitude": 80.2325
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec2f"
+  },
+  "city": "Lake Gregory",
+  "latitude": 6.9634,
+  "longitude": 80.2318
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec30"
+  },
+  "city": "Nuwara Eliya Town",
+  "latitude": 6.9682,
+  "longitude": 80.2231
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec31"
+  },
+  "city": "Halpe",
+  "latitude": 6.9104,
+  "longitude": 81.084
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec32"
+  },
+  "city": "Passara",
+  "latitude": 6.8423,
+  "longitude": 81.1528
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec33"
+  },
+  "city": "Welimada",
+  "latitude": 6.8884,
+  "longitude": 81.1063
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec34"
+  },
+  "city": "Badulla",
+  "latitude": 6.9782,
+  "longitude": 81.053
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec35"
+  },
+  "city": "Ohiya",
+  "latitude": 6.9116,
+  "longitude": 81.1512
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec36"
+  },
+  "city": "Diyatalawa",
+  "latitude": 6.9142,
+  "longitude": 81.1456
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec37"
+  },
+  "city": "Horton Plains",
+  "latitude": 6.8445,
+  "longitude": 80.8414
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec38"
+  },
+  "city": "Nanu Oya",
+  "latitude": 6.9894,
+  "longitude": 80.7816
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec39"
+  },
+  "city": "Bandarawela",
+  "latitude": 6.8256,
+  "longitude": 81.0685
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec3a"
+  },
+  "city": "Haldummulla",
+  "latitude": 6.8333,
+  "longitude": 81.05
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec3b"
+  },
+  "city": "Mahiyanganaya",
+  "latitude": 7.3277,
+  "longitude": 81.0151
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec3c"
+  },
+  "city": "Monaragala",
+  "latitude": 6.8719,
+  "longitude": 81.3306
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec3d"
+  },
+  "city": "Bibile",
+  "latitude": 7.2061,
+  "longitude": 81.3224
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec3e"
+  },
+  "city": "Medagama",
+  "latitude": 7.0872,
+  "longitude": 81.2564
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec3f"
+  },
+  "city": "Thanamalwila",
+  "latitude": 6.9333,
+  "longitude": 81.4333
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec40"
+  },
+  "city": "Siyambalanduwa",
+  "latitude": 7.2717,
+  "longitude": 81.5625
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec41"
+  },
+  "city": "Kinniya",
+  "latitude": 8.0203,
+  "longitude": 81.59
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec42"
+  },
+  "city": "Kuchchaveli",
+  "latitude": 8.1447,
+  "longitude": 81.5597
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec43"
+  },
+  "city": "Seruwila",
+  "latitude": 8.0158,
+  "longitude": 81.6458
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec44"
+  },
+  "city": "Nilaveli",
+  "latitude": 8.2775,
+  "longitude": 81.2608
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec45"
+  },
+  "city": "Muttur",
+  "latitude": 8.0667,
+  "longitude": 81.6333
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec46"
+  },
+  "city": "Verugal",
+  "latitude": 8.0833,
+  "longitude": 81.9
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec47"
+  },
+  "city": "Kantalai",
+  "latitude": 8.1167,
+  "longitude": 81.6667
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec48"
+  },
+  "city": "Oddusuddan",
+  "latitude": 8.0244,
+  "longitude": 81.6803
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec49"
+  },
+  "city": "Pudukuduirippu",
+  "latitude": 8.0461,
+  "longitude": 81.6803
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec4a"
+  },
+  "city": "Maritimepattu",
+  "latitude": 8.0833,
+  "longitude": 81.6333
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec4b"
+  },
+  "city": "Welioya",
+  "latitude": 8.0611,
+  "longitude": 81.7411
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec4c"
+  },
+  "city": "Malavi",
+  "latitude": 8.0692,
+  "longitude": 81.6814
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec4d"
+  },
+  "city": "Chettikulam",
+  "latitude": 8.05,
+  "longitude": 81.5833
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec4e"
+  },
+  "city": "Vavuniya North",
+  "latitude": 8.77,
+  "longitude": 80.62
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec4f"
+  },
+  "city": "Vavuniya South",
+  "latitude": 8.78,
+  "longitude": 80.61
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec50"
+  },
+  "city": "Omanthai",
+  "latitude": 8.58,
+  "longitude": 80.8
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec51"
+  },
+  "city": "Madukanda",
+  "latitude": 8.535,
+  "longitude": 80.8075
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec52"
+  },
+  "city": "Kurumankadu",
+  "latitude": 8.52,
+  "longitude": 80.85
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec53"
+  },
+  "city": "Vairavapuliyankulam",
+  "latitude": 8.51,
+  "longitude": 80.93
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec54"
+  },
+  "city": "Kalmunai",
+  "latitude": 7.429,
+  "longitude": 81.7283
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec55"
+  },
+  "city": "Uhana",
+  "latitude": 7.264,
+  "longitude": 81.689
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec56"
+  },
+  "city": "Akkaraipattu",
+  "latitude": 7.5381,
+  "longitude": 81.7972
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec57"
+  },
+  "city": "Addalachchenai",
+  "latitude": 7.4586,
+  "longitude": 81.7325
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec58"
+  },
+  "city": "Sammanthurai",
+  "latitude": 7.52,
+  "longitude": 81.75
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec59"
+  },
+  "city": "Pottuvil",
+  "latitude": 7.073,
+  "longitude": 81.7975
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec5a"
+  },
+  "city": "Kalmadu",
+  "latitude": 7.4167,
+  "longitude": 81.7833
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec5b"
+  },
+  "city": "Madhu",
+  "latitude": 8.108,
+  "longitude": 80.956
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec5c"
+  },
+  "city": "Pesalai",
+  "latitude": 8.1958,
+  "longitude": 80.9414
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec5d"
+  },
+  "city": "Nanattan",
+  "latitude": 8.0583,
+  "longitude": 80.9236
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec5e"
+  },
+  "city": "Musali",
+  "latitude": 8.5667,
+  "longitude": 80.8
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec5f"
+  },
+  "city": "Mannar Island",
+  "latitude": 8.9783,
+  "longitude": 79.9864
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec60"
+  },
+  "city": "Vankalai",
+  "latitude": 8.8667,
+  "longitude": 79.9889
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec61"
+  },
+  "city": "Elephant Pass",
+  "latitude": 9.1314,
+  "longitude": 80.2464
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec62"
+  },
+  "city": "Poonakary",
+  "latitude": 9.1525,
+  "longitude": 80.3714
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec63"
+  },
+  "city": "Karachchi",
+  "latitude": 9.1369,
+  "longitude": 80.4061
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec64"
+  },
+  "city": "Mankulam",
+  "latitude": 9.0778,
+  "longitude": 80.4131
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec65"
+  },
+  "city": "Paranthan",
+  "latitude": 9.22,
+  "longitude": 80.4186
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec66"
+  },
+  "city": "Vishvamadu",
+  "latitude": 9.256,
+  "longitude": 80.45
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec67"
+  },
+  "city": "Thunukkai",
+  "latitude": 9.3242,
+  "longitude": 80.4361
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec68"
+  },
+  "city": "Ranna",
+  "latitude": 6.0808,
+  "longitude": 80.3112
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec69"
+  },
+  "city": "Hakmana",
+  "latitude": 6.0969,
+  "longitude": 80.2836
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec6a"
+  },
+  "city": "Bandaragama",
+  "latitude": 6.7374,
+  "longitude": 79.989
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec6b"
+  },
+  "city": "Beruwala",
+  "latitude": 6.3962,
+  "longitude": 79.951
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec6c"
+  },
+  "city": "Wadduwa",
+  "latitude": 6.7039,
+  "longitude": 79.9797
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec6d"
+  },
+  "city": "Horana",
+  "latitude": 6.7786,
+  "longitude": 80.0956
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec6e"
+  },
+  "city": "Ingiriya",
+  "latitude": 6.837,
+  "longitude": 80.0592
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec6f"
+  },
+  "city": "Mathugama",
+  "latitude": 6.5562,
+  "longitude": 80.1681
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec70"
+  },
+  "city": "Dikwella",
+  "latitude": 6.2617,
+  "longitude": 80.5167
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec71"
+  },
+  "city": "Weligama",
+  "latitude": 5.9744,
+  "longitude": 80.435
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec72"
+  },
+  "city": "Devinuwara",
+  "latitude": 5.957,
+  "longitude": 80.3466
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec73"
+  },
+  "city": "Mirissa",
+  "latitude": 5.9506,
+  "longitude": 80.4519
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec74"
+  },
+  "city": "Kalutara",
+  "latitude": 6.5764,
+  "longitude": 79.96
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec75"
+  },
+  "city": "Beruwala",
+  "latitude": 6.397,
+  "longitude": 79.951
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec76"
+  },
+  "city": "Panadura",
+  "latitude": 6.7422,
+  "longitude": 79.9875
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec77"
+  },
+  "city": "Wadduwa",
+  "latitude": 6.7039,
+  "longitude": 79.9797
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec78"
+  },
+  "city": "Horana",
+  "latitude": 6.7786,
+  "longitude": 80.0956
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec79"
+  },
+  "city": "Ingiriya",
+  "latitude": 6.837,
+  "longitude": 80.0592
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec7a"
+  },
+  "city": "Mathugama",
+  "latitude": 6.5562,
+  "longitude": 80.1681
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec7b"
+  },
+  "city": "Bandaragama",
+  "latitude": 6.7374,
+  "longitude": 79.989
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec7c"
+  },
+  "city": "Bingiriya",
+  "latitude": 7.0183,
+  "longitude": 80.1906
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec7d"
+  },
+  "city": "Dambadeniya",
+  "latitude": 7.115,
+  "longitude": 80.2867
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec7e"
+  },
+  "city": "Wariyapola",
+  "latitude": 7.0739,
+  "longitude": 80.3331
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec7f"
+  },
+  "city": "Chilaw",
+  "latitude": 7.5669,
+  "longitude": 79.9713
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec80"
+  },
+  "city": "Anamaduwa",
+  "latitude": 7.58,
+  "longitude": 80.0667
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec81"
+  },
+  "city": "Mundel",
+  "latitude": 7.642,
+  "longitude": 80.176
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec82"
+  },
+  "city": "Kakkapalliya",
+  "latitude": 7.6792,
+  "longitude": 80.145
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec83"
+  },
+  "city": "Nawagaththegama",
+  "latitude": 7.6061,
+  "longitude": 80.0397
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec84"
+  },
+  "city": "Palavi",
+  "latitude": 7.6296,
+  "longitude": 80.0567
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec85"
+  },
+  "city": "Marawila",
+  "latitude": 7.6314,
+  "longitude": 80.0378
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec86"
+  },
+  "city": "Mihintale",
+  "latitude": 8.3453,
+  "longitude": 80.5985
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec87"
+  },
+  "city": "Medawachchiya",
+  "latitude": 8.3864,
+  "longitude": 80.5569
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec88"
+  },
+  "city": "Palugaswewa",
+  "latitude": 8.34,
+  "longitude": 80.6219
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec89"
+  },
+  "city": "Thalawa",
+  "latitude": 8.34,
+  "longitude": 80.5
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec8a"
+  },
+  "city": "Kekirawa",
+  "latitude": 8.3492,
+  "longitude": 80.509
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec8b"
+  },
+  "city": "Galnewa",
+  "latitude": 8.2992,
+  "longitude": 80.495
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec8c"
+  },
+  "city": "Habarana",
+  "latitude": 8.0711,
+  "longitude": 80.625
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec8d"
+  },
+  "city": "Hingurakgoda",
+  "latitude": 8.071,
+  "longitude": 80.579
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec8e"
+  },
+  "city": "Dimbulagala",
+  "latitude": 8.1561,
+  "longitude": 81.16
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec8f"
+  },
+  "city": "Lankapura",
+  "latitude": 8.2322,
+  "longitude": 81.2111
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec90"
+  },
+  "city": "Giritale",
+  "latitude": 8.2933,
+  "longitude": 81.1922
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec91"
+  },
+  "city": "Welikanda",
+  "latitude": 8.3525,
+  "longitude": 81.2264
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec92"
+  },
+  "city": "Mahaweli",
+  "latitude": 7.115,
+  "longitude": 80.695
+},
+{
+  "_id": {
+    "$oid": "66ec356c85a1df72eb7cec93"
+  },
+  "city": "Kaduruwela",
+  "latitude": 7.7264,
+  "longitude": 81.0169
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98caa"
+  },
+  "city": "Colombo",
+  "latitude": 6.9271,
+  "longitude": 79.8612
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cab"
+  },
+  "city": "Dehiwala-Mount Lavinia",
+  "latitude": 6.8517,
+  "longitude": 79.8676
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cac"
+  },
+  "city": "Negombo",
+  "latitude": 7.2095,
+  "longitude": 79.8356
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cad"
+  },
+  "city": "Kelaniya",
+  "latitude": 6.9605,
+  "longitude": 79.9227
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cae"
+  },
+  "city": "Moratuwa",
+  "latitude": 6.7736,
+  "longitude": 79.8824
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98caf"
+  },
+  "city": "Kaduwela",
+  "latitude": 6.9358,
+  "longitude": 79.9784
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cb0"
+  },
+  "city": "Wattala",
+  "latitude": 6.9911,
+  "longitude": 79.8827
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cb1"
+  },
+  "city": "Sri Jayawardenepura Kotte",
+  "latitude": 6.9271,
+  "longitude": 79.9571
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cb2"
+  },
+  "city": "Galle",
+  "latitude": 6.0535,
+  "longitude": 80.221
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cb3"
+  },
+  "city": "Ambalangoda",
+  "latitude": 6.2414,
+  "longitude": 80.0542
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cb4"
+  },
+  "city": "Hikkaduwa",
+  "latitude": 6.1406,
+  "longitude": 80.1048
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cb5"
+  },
+  "city": "Unawatuna",
+  "latitude": 6.0097,
+  "longitude": 80.2467
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cb6"
+  },
+  "city": "Balapitiya",
+  "latitude": 6.278,
+  "longitude": 80.0344
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cb7"
+  },
+  "city": "Elpitiya",
+  "latitude": 6.3306,
+  "longitude": 80.1542
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cb8"
+  },
+  "city": "Labugama",
+  "latitude": 6.8282,
+  "longitude": 80.0842
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cb9"
+  },
+  "city": "Nagoda",
+  "latitude": 6.6039,
+  "longitude": 80.1449
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cba"
+  },
+  "city": "Gampaha",
+  "latitude": 7.0918,
+  "longitude": 79.998
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cbb"
+  },
+  "city": "Negombo",
+  "latitude": 7.2095,
+  "longitude": 79.8356
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cbc"
+  },
+  "city": "Kelaniya",
+  "latitude": 6.9605,
+  "longitude": 79.9227
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cbd"
+  },
+  "city": "Ja-Ela",
+  "latitude": 7.081,
+  "longitude": 79.8919
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cbe"
+  },
+  "city": "Minuwangoda",
+  "latitude": 7.175,
+  "longitude": 80.0142
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cbf"
+  },
+  "city": "Mahara",
+  "latitude": 7.0067,
+  "longitude": 79.9769
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cc0"
+  },
+  "city": "Wattala",
+  "latitude": 6.9911,
+  "longitude": 79.8827
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cc1"
+  },
+  "city": "Divulapitiya",
+  "latitude": 7.2786,
+  "longitude": 80.0154
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cc2"
+  },
+  "city": "Kandy",
+  "latitude": 7.2906,
+  "longitude": 80.6337
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cc3"
+  },
+  "city": "Peradeniya",
+  "latitude": 7.2717,
+  "longitude": 80.5946
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cc4"
+  },
+  "city": "Nawalapitiya",
+  "latitude": 7.047,
+  "longitude": 80.5331
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cc5"
+  },
+  "city": "Mawanella",
+  "latitude": 7.2542,
+  "longitude": 80.4428
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cc6"
+  },
+  "city": "Gampola",
+  "latitude": 7.1624,
+  "longitude": 80.5706
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cc7"
+  },
+  "city": "Wattegama",
+  "latitude": 7.4026,
+  "longitude": 80.6943
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cc8"
+  },
+  "city": "Kegalle",
+  "latitude": 7.2513,
+  "longitude": 80.3464
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cc9"
+  },
+  "city": "Nittambuwa",
+  "latitude": 7.1443,
+  "longitude": 80.0628
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cca"
+  },
+  "city": "Matale",
+  "latitude": 7.4671,
+  "longitude": 80.6234
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98ccb"
+  },
+  "city": "Dambulla",
+  "latitude": 7.8732,
+  "longitude": 80.6515
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98ccc"
+  },
+  "city": "Rattota",
+  "latitude": 7.4927,
+  "longitude": 80.6966
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98ccd"
+  },
+  "city": "Ukuwela",
+  "latitude": 7.4824,
+  "longitude": 80.6158
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cce"
+  },
+  "city": "Naula",
+  "latitude": 7.682,
+  "longitude": 80.61
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98ccf"
+  },
+  "city": "Galewela",
+  "latitude": 7.823,
+  "longitude": 80.5722
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cd0"
+  },
+  "city": "Hettipola",
+  "latitude": 7.5735,
+  "longitude": 80.1192
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cd1"
+  },
+  "city": "Laggala",
+  "latitude": 7.5553,
+  "longitude": 80.8053
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cd2"
+  },
+  "city": "Nuwara Eliya",
+  "latitude": 6.9497,
+  "longitude": 80.7891
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cd3"
+  },
+  "city": "Ella",
+  "latitude": 6.8727,
+  "longitude": 81.0464
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cd4"
+  },
+  "city": "Badulla",
+  "latitude": 6.9894,
+  "longitude": 81.0551
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cd5"
+  },
+  "city": "Bandarawela",
+  "latitude": 6.8324,
+  "longitude": 80.9864
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cd6"
+  },
+  "city": "Ella",
+  "latitude": 6.8727,
+  "longitude": 81.0464
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cd7"
+  },
+  "city": "Haldummulla",
+  "latitude": 6.732,
+  "longitude": 80.8873
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cd8"
+  },
+  "city": "Mahiyanganaya",
+  "latitude": 7.3395,
+  "longitude": 81.0156
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cd9"
+  },
+  "city": "Monaragala",
+  "latitude": 6.871,
+  "longitude": 81.3482
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cda"
+  },
+  "city": "Kithulgala",
+  "latitude": 6.9872,
+  "longitude": 80.4248
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cdb"
+  },
+  "city": "Haliela",
+  "latitude": 6.9777,
+  "longitude": 81.0506
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cdc"
+  },
+  "city": "Bandarawela",
+  "latitude": 6.8324,
+  "longitude": 80.9864
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cdd"
+  },
+  "city": "Monaragala",
+  "latitude": 6.871,
+  "longitude": 81.3482
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cde"
+  },
+  "city": "Wellawaya",
+  "latitude": 6.7381,
+  "longitude": 81.1054
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cdf"
+  },
+  "city": "Badulla",
+  "latitude": 6.9894,
+  "longitude": 81.0551
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98ce0"
+  },
+  "city": "Mahiyanganaya",
+  "latitude": 7.3395,
+  "longitude": 81.0156
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98ce1"
+  },
+  "city": "Bibile",
+  "latitude": 7.1579,
+  "longitude": 81.2251
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98ce2"
+  },
+  "city": "Medagama",
+  "latitude": 7.0848,
+  "longitude": 81.2981
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98ce3"
+  },
+  "city": "Thanamalwila",
+  "latitude": 6.4969,
+  "longitude": 81.0784
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98ce4"
+  },
+  "city": "Siyambalanduwa",
+  "latitude": 6.9127,
+  "longitude": 81.4491
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98ce5"
+  },
+  "city": "Haputale",
+  "latitude": 6.765,
+  "longitude": 80.9636
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98ce6"
+  },
+  "city": "Ambewela",
+  "latitude": 6.9058,
+  "longitude": 80.8019
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98ce7"
+  },
+  "city": "Welimada",
+  "latitude": 6.905,
+  "longitude": 80.8858
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98ce8"
+  },
+  "city": "Kandy",
+  "latitude": 7.2906,
+  "longitude": 80.6337
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98ce9"
+  },
+  "city": "Nanu Oya",
+  "latitude": 6.9804,
+  "longitude": 80.7644
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cea"
+  },
+  "city": "Ratnapura",
+  "latitude": 6.6828,
+  "longitude": 80.3995
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98ceb"
+  },
+  "city": "Balangoda",
+  "latitude": 6.6654,
+  "longitude": 80.7061
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cec"
+  },
+  "city": "Kegalle",
+  "latitude": 7.2513,
+  "longitude": 80.3464
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98ced"
+  },
+  "city": "Mawanella",
+  "latitude": 7.2542,
+  "longitude": 80.4428
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cee"
+  },
+  "city": "Warakapola",
+  "latitude": 7.2306,
+  "longitude": 80.1976
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cef"
+  },
+  "city": "Rambukkana",
+  "latitude": 7.3194,
+  "longitude": 80.3892
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cf0"
+  },
+  "city": "Deraniyagala",
+  "latitude": 6.9556,
+  "longitude": 80.2827
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cf1"
+  },
+  "city": "Galigamuwa",
+  "latitude": 7.195,
+  "longitude": 80.3467
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cf2"
+  },
+  "city": "Aranayaka",
+  "latitude": 7.1618,
+  "longitude": 80.4626
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cf3"
+  },
+  "city": "Yatiyantota",
+  "latitude": 7.0161,
+  "longitude": 80.253
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cf4"
+  },
+  "city": "Elapatha",
+  "latitude": 6.7003,
+  "longitude": 80.5247
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cf5"
+  },
+  "city": "Jaffna",
+  "latitude": 9.6615,
+  "longitude": 80.0255
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cf6"
+  },
+  "city": "Chavakachcheri",
+  "latitude": 9.657,
+  "longitude": 80.2115
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cf7"
+  },
+  "city": "Point Pedro",
+  "latitude": 9.8257,
+  "longitude": 80.2364
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cf8"
+  },
+  "city": "Kayts",
+  "latitude": 9.6831,
+  "longitude": 79.9854
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cf9"
+  },
+  "city": "Velanai",
+  "latitude": 9.6695,
+  "longitude": 79.9106
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cfa"
+  },
+  "city": "Karainagar",
+  "latitude": 9.6939,
+  "longitude": 79.9072
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cfb"
+  },
+  "city": "Chankanai",
+  "latitude": 9.7007,
+  "longitude": 80.0441
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cfc"
+  },
+  "city": "Kankesanthurai",
+  "latitude": 9.8219,
+  "longitude": 80.0414
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cfd"
+  },
+  "city": "Kuruwita",
+  "latitude": 6.7694,
+  "longitude": 80.3558
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cfe"
+  },
+  "city": "Embilipitiya",
+  "latitude": 6.3361,
+  "longitude": 80.8487
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98cff"
+  },
+  "city": "Kahawatta",
+  "latitude": 6.6191,
+  "longitude": 80.5683
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d00"
+  },
+  "city": "Agalawatta",
+  "latitude": 6.5154,
+  "longitude": 80.5377
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d01"
+  },
+  "city": "Eheliyagoda",
+  "latitude": 6.8744,
+  "longitude": 80.2442
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d02"
+  },
+  "city": "Ampara",
+  "latitude": 7.299,
+  "longitude": 81.6823
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d03"
+  },
+  "city": "Kalmunai",
+  "latitude": 7.4095,
+  "longitude": 81.8346
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d04"
+  },
+  "city": "Uhana",
+  "latitude": 7.2294,
+  "longitude": 81.6593
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d05"
+  },
+  "city": "Akkaraipattu",
+  "latitude": 7.2212,
+  "longitude": 81.8433
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d06"
+  },
+  "city": "Addalachchenai",
+  "latitude": 7.2401,
+  "longitude": 81.8516
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d07"
+  },
+  "city": "Sammanthurai",
+  "latitude": 7.361,
+  "longitude": 81.8214
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d08"
+  },
+  "city": "Pottuvil",
+  "latitude": 6.8815,
+  "longitude": 81.8354
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d09"
+  },
+  "city": "Trincomalee",
+  "latitude": 8.5874,
+  "longitude": 81.2152
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d0a"
+  },
+  "city": "Kinniya",
+  "latitude": 8.4434,
+  "longitude": 81.1739
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d0b"
+  },
+  "city": "Kuchchaveli",
+  "latitude": 8.8224,
+  "longitude": 81.0258
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d0c"
+  },
+  "city": "Seruwila",
+  "latitude": 8.3693,
+  "longitude": 81.2934
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d0d"
+  },
+  "city": "Nilaveli",
+  "latitude": 8.7232,
+  "longitude": 81.1671
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d0e"
+  },
+  "city": "Muttur",
+  "latitude": 8.445,
+  "longitude": 81.2789
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d0f"
+  },
+  "city": "Verugal",
+  "latitude": 8.1976,
+  "longitude": 81.3463
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d10"
+  },
+  "city": "Kantalai",
+  "latitude": 8.3612,
+  "longitude": 81.0033
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d11"
+  },
+  "city": "Hambantota",
+  "latitude": 6.1241,
+  "longitude": 81.1185
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d12"
+  },
+  "city": "Tangalle",
+  "latitude": 6.0258,
+  "longitude": 80.7987
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d13"
+  },
+  "city": "Matara",
+  "latitude": 5.9549,
+  "longitude": 80.554
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d14"
+  },
+  "city": "Ambalangoda",
+  "latitude": 6.2414,
+  "longitude": 80.0537
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d15"
+  },
+  "city": "Tangalle",
+  "latitude": 6.0258,
+  "longitude": 80.7987
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d16"
+  },
+  "city": "Weligama",
+  "latitude": 5.9734,
+  "longitude": 80.4298
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d17"
+  },
+  "city": "Mirissa",
+  "latitude": 5.9481,
+  "longitude": 80.4602
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d18"
+  },
+  "city": "Devinuwara",
+  "latitude": 5.934,
+  "longitude": 80.5917
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d19"
+  },
+  "city": "Dikwella",
+  "latitude": 5.9661,
+  "longitude": 80.6924
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d1a"
+  },
+  "city": "Hakmana",
+  "latitude": 6.0435,
+  "longitude": 80.6193
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d1b"
+  },
+  "city": "Matara",
+  "latitude": 5.9549,
+  "longitude": 80.554
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d1c"
+  },
+  "city": "Kalutara",
+  "latitude": 6.5838,
+  "longitude": 79.959
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d1d"
+  },
+  "city": "Beruwala",
+  "latitude": 6.4786,
+  "longitude": 79.9827
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d1e"
+  },
+  "city": "Panadura",
+  "latitude": 6.713,
+  "longitude": 79.902
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d1f"
+  },
+  "city": "Wadduwa",
+  "latitude": 6.6365,
+  "longitude": 79.9384
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d20"
+  },
+  "city": "Horana",
+  "latitude": 6.7159,
+  "longitude": 80.0591
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d21"
+  },
+  "city": "Ingiriya",
+  "latitude": 6.7625,
+  "longitude": 80.1794
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d22"
+  },
+  "city": "Mathugama",
+  "latitude": 6.5225,
+  "longitude": 80.1095
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d23"
+  },
+  "city": "Bandaragama",
+  "latitude": 6.6697,
+  "longitude": 80.0075
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d24"
+  },
+  "city": "Tissamaharama",
+  "latitude": 6.2826,
+  "longitude": 81.2879
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d25"
+  },
+  "city": "Kataragama",
+  "latitude": 6.4195,
+  "longitude": 81.335
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d26"
+  },
+  "city": "Beliatta",
+  "latitude": 6.0492,
+  "longitude": 80.729
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d27"
+  },
+  "city": "Weeraketiya",
+  "latitude": 6.1289,
+  "longitude": 80.7647
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d28"
+  },
+  "city": "Ranna",
+  "latitude": 6.0785,
+  "longitude": 80.902
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d29"
+  },
+  "city": "Kurunegala",
+  "latitude": 7.4863,
+  "longitude": 80.3647
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d2a"
+  },
+  "city": "Maho",
+  "latitude": 7.7719,
+  "longitude": 80.3033
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d2b"
+  },
+  "city": "Alawwa",
+  "latitude": 7.2816,
+  "longitude": 80.1996
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d2c"
+  },
+  "city": "Kuliyapitiya",
+  "latitude": 7.4679,
+  "longitude": 80.043
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d2d"
+  },
+  "city": "Bingiriya",
+  "latitude": 7.4677,
+  "longitude": 79.9597
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d2e"
+  },
+  "city": "Puttalam",
+  "latitude": 8.0343,
+  "longitude": 79.8397
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d2f"
+  },
+  "city": "Dambadeniya",
+  "latitude": 7.3715,
+  "longitude": 80.2293
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d30"
+  },
+  "city": "Wariyapola",
+  "latitude": 7.5806,
+  "longitude": 80.3321
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d31"
+  },
+  "city": "Puttalam",
+  "latitude": 8.0343,
+  "longitude": 79.8397
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d32"
+  },
+  "city": "Chilaw",
+  "latitude": 7.5758,
+  "longitude": 79.7958
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d33"
+  },
+  "city": "Anamaduwa",
+  "latitude": 7.7647,
+  "longitude": 79.9713
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d34"
+  },
+  "city": "Mundel",
+  "latitude": 7.797,
+  "longitude": 79.8169
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d35"
+  },
+  "city": "Kakkapalliya",
+  "latitude": 7.6,
+  "longitude": 79.8
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d36"
+  },
+  "city": "Nawagaththegama",
+  "latitude": 7.9828,
+  "longitude": 80.01
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d37"
+  },
+  "city": "Palavi",
+  "latitude": 8.0081,
+  "longitude": 79.8303
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d38"
+  },
+  "city": "Marawila",
+  "latitude": 7.4293,
+  "longitude": 79.8363
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d39"
+  },
+  "city": "Anuradhapura",
+  "latitude": 8.3114,
+  "longitude": 80.4037
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d3a"
+  },
+  "city": "Mihintale",
+  "latitude": 8.3522,
+  "longitude": 80.5047
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d3b"
+  },
+  "city": "Medawachchiya",
+  "latitude": 8.6263,
+  "longitude": 80.5061
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d3c"
+  },
+  "city": "Palugaswewa",
+  "latitude": 8.1043,
+  "longitude": 80.6901
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d3d"
+  },
+  "city": "Thalawa",
+  "latitude": 8.07,
+  "longitude": 80.198
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d3e"
+  },
+  "city": "Kekirawa",
+  "latitude": 8.043,
+  "longitude": 80.5925
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d3f"
+  },
+  "city": "Galnewa",
+  "latitude": 8.1098,
+  "longitude": 80.454
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d40"
+  },
+  "city": "Habarana",
+  "latitude": 8.0416,
+  "longitude": 80.7437
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d41"
+  },
+  "city": "Polonnaruwa",
+  "latitude": 7.9397,
+  "longitude": 81.0033
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d42"
+  },
+  "city": "Hingurakgoda",
+  "latitude": 8.0413,
+  "longitude": 80.9756
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d43"
+  },
+  "city": "Dimbulagala",
+  "latitude": 7.8545,
+  "longitude": 81.1505
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d44"
+  },
+  "city": "Lankapura",
+  "latitude": 8.1021,
+  "longitude": 80.9785
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d45"
+  },
+  "city": "Giritale",
+  "latitude": 8.0624,
+  "longitude": 80.9623
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d46"
+  },
+  "city": "Welikanda",
+  "latitude": 7.8575,
+  "longitude": 81.1729
+},
+{
+  "_id": {
+    "$oid": "66ed615e33eeb0b670d98d47"
+  },
+  "city": "Kaduruwela",
+  "latitude": 7.9371,
+  "longitude": 81.0106
+}]

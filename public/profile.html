@@ -1,0 +1,182 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Profile Template</title>
+        <link rel="stylesheet" href="css/profilr.css">
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/css/bootstrap.min.css"
+            rel="stylesheet">
+        <link href="assets/vendor/bootstrap/css/bootstrap.min.css"
+            rel="stylesheet">
+        <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css"
+            rel="stylesheet">
+        <link href="img/favicon.ico" rel="icon">
+
+        <!-- Google Font -->
+        <link
+            href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;800;900&display=swap"
+            rel="stylesheet">
+
+        <!-- CSS Libraries -->
+        <link
+            href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+            rel="stylesheet">
+        <link
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css"
+            rel="stylesheet">
+        <link href="lib/flaticon/font/flaticon.css" rel="stylesheet">
+        <link href="lib/animate/animate.min.css" rel="stylesheet">
+        <link href="lib/owlcarousel/assets/owl.carousel.min.css"
+            rel="stylesheet">
+
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/Home.css" rel="stylesheet">
+        <script
+            src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+    </head>
+
+    <body>
+        <!-- Nav Bar Start -->
+        <div class="nav-bar">
+            <div class="container">
+                <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+                    <a href="#" class="navbar-brand">MENU</a>
+                    <button type="button" class="navbar-toggler"
+                        data-toggle="collapse" data-target="#navbarCollapse">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div
+                        class="collapse navbar-collapse justify-content-between"
+                        id="navbarCollapse">
+                        <div class="ml-auto" onclick="logout()">
+                            <a class="btn btn-custom">Log
+                                Out</a>
+                        </div>
+                        <img src="img/img1.jpg" class="user-pic"
+                            href="pic (1).html">
+
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <!-- Nav Bar End -->
+        <div class="container light-style flex-grow-1 container-p-y">
+            <h4 class="font-weight-bold py-3 mb-4">
+                FeedBack
+            </h4>
+            <div class="card overflow-hidden">
+                <div class="row no-gutters row-bordered row-border-light">
+                    <div class="col-md-3 pt-0 ">
+                        <div
+                            class="list-group list-group-flush  account-settings-links ">
+                            <a
+                                class="list-group-item list-group-item-action active "
+                                data-toggle="list"
+                                href="#account-general">General</a>
+                            <!-- <a class="list-group-item list-group-item-action "
+                                data-toggle="list"
+                                href="#account-change-password">Change
+                                password</a> -->
+                        </div>
+                    </div>
+                    <div class="col-md-9">
+                        <div class="tab-content">
+                            <div class="tab-pane fade active show"
+                                id="account-general">
+                                <div class="card-body media align-items-center">
+
+                                </div>
+                                <div id="msg_form"></div>
+                                <hr class="border-light m-0">
+                                <div class="card-body">
+                                    <div class="form-group">
+                                        <label
+                                            class="form-label">Username:
+                                            &nbsp;<span
+                                                id="username"></span></label>
+
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label class="form-label">E-mail:
+                                            &nbsp;<span
+                                                id="email"></span></label>
+                                    </div>
+                                    <div class="form-group">
+                                        <label
+                                            class="form-label">Send Your
+                                            Idea</label>
+                                        <input type="text" class="form-control"
+                                            placeholder="I need to register as a service provider"
+                                            id="msg">
+                                    </div>
+                                    <div class="text-right mt-3">
+                                        <button type="button"
+                                            class="btn btn-danger"
+                                            id="send_msg">Submit</button>&nbsp;
+                                        <button type="button"
+                                            class="btn btn-default"
+                                            onclick="cancel()">Cancel</button>
+                                    </div>
+                                    <div id="msg_result"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="tab-pane fade"
+                                id="account-change-password">
+                                <div class="card-body pb-2">
+                                    <div class="form-group">
+                                        <label class="form-label">Current
+                                            password</label>
+                                        <input type="password"
+                                            class="form-control" id="pass">
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="form-label">New
+                                            password</label>
+                                        <input type="password"
+                                            class="form-control" id="newpass1">
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="form-label">Repeat new
+                                            password</label>
+                                        <input type="password"
+                                            class="form-control" id="newpass2">
+                                    </div>
+                                    <div class="text-right mt-3">
+                                        <button type="button"
+                                            class="btn btn-danger" id="reset">Save
+                                            changes</button>&nbsp;
+                                        <button type="button"
+                                            class="btn btn-default"
+                                            onclick="cancel()">Cancel</button>
+                                    </div>
+                                    <div id="pass_result"></div>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <script src="js/feedback.js"></script>
+        <script src="js/pass_reset.js"></script>
+        <script src="js/user_log_session.js"></script>
+        <script data-cfasync="false"
+            src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+        <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+        <script
+            src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/js/bootstrap.bundle.min.js"></script>
+        <script type="text/javascript">
+
+    </script>
+    </body>
+
+</html>

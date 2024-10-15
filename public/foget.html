@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Login Page</title>
+        <link rel="stylesheet" href="css/login.css">
+        <script
+            src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+        <script src="js/fogetPass.js" defer></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="login-box">
+                <h2>Fogot Password</h2>
+                <form id="loginForm">
+                    <div class="input-group">
+                        <label for="username">Username</label>
+                        <input type="text" id="username" name="username"
+                            required>
+                    </div>
+                    <div class="input-group">
+                        <label for="email">email</label>
+                        <input type="email" id="email" name="email"
+                            required>
+                    </div>
+                    <button type="submit" id="foget">Send My Password</button>
+                    <br>
+                    <br>
+                    <p><a href="sign.html">Signup</a></p>
+                    
+
+                </form>
+                <div id="msg_result"></div>
+            </div>
+        </div>
+    </body>
+</html>

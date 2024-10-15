@@ -1,0 +1,499 @@
+-----@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+:root{
+    --background: #d1deec;
+    --foreground: #f1f3f5;
+    --white: #fff;
+    --black: #000;
+    --gray: #6e6e6e;
+    --shadow: #76767663;
+    --border: #cfcfcf;
+}
+.dark-color{
+    --background: #222230;
+    --foreground: #42435c;
+    --white: #2b2c44;
+    --black: #eeecff;
+    --gray: #d5dfd5;
+    --shadow: #00000063;
+    --border: #3f4172;
+}
+
+.darkTheme.button-Active span{
+    margin-left: 16px;
+}
+
+body{
+    background: var(--background);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: #ff0000;
+}
+button:focus,
+input:focus{
+    border: none;
+    outline: none;
+}
+h1,h2,h3,h4,h5,h6,b{
+    color: var(--black);
+}
+
+a:focus, a:hover{
+    text-decoration: none;
+    color: inherit;
+}
+
+/* header section style start here */
+
+header{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header-container{
+    width: 95%;
+    background: var(--white);
+    height: 100px;
+    overflow: hidden;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px 0 var(--shadow);
+}
+.header-wrapper{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    padding: 0 8px;
+    justify-content: space-between;
+}
+.logoBox{
+    width: 7%;
+}
+.logoBox img{
+    width: 60px;
+}
+.searchBox{
+    width: 38%;
+    position: relative;
+}
+.iconBox1{
+    width: 25%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 25px;
+    border-right: 2px solid var(--border);
+}
+.iconBox2{
+    width: 25%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 25px;
+    position: relative;
+}
+.searchBox input{
+    padding: 15px 45px 15px 15px;
+    border-radius: 50px;
+    width: 100%;
+    background: var(--foreground);
+    border: none;
+    box-shadow: 0 2px 5px 0 var(--shadow);
+    color: var(--black);
+}
+.searchBox i{
+    position: absolute;
+    right: 20px;
+    top: 19px;
+    color: var(--black);
+    cursor: pointer;
+    transition: .4s;
+}
+.searchBox i:hover{
+    color: #ff0000;
+}
+
+.iconBox1 i,
+.iconBox2 i{
+    font-size: 20px;
+    background: transparent;
+    padding: 10px;
+    border-radius: 10px;
+    color:  #ff0000;
+    transition: .4s;
+}
+.iconBox1 i:hover,
+.iconBox2 i:hover{
+    background: #ff0000;
+    color: #d1deec;
+    cursor: pointer;
+}
+.iconBox2 label{
+    width: 45px;
+    height: 45px;
+    overflow: hidden;
+    border-radius: 50px;
+}
+.iconBox2 label img{
+    width: 100%;
+}
+.iconBox2 .fa-caret-down{
+    position: absolute;
+    right: 0;
+    font-size: 16px;
+    top: 7px;
+}
+.iconBox2 .fa-caret-down:hover{
+    background: transparent;
+}
+
+
+/* header section style end here */
+
+/* home section start here */
+
+.home{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 95%;
+}
+.home-weapper{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.home-left{
+    width: 20%;
+    background: var(--white);
+    box-shadow: 0 2px 5px 0 var(--shadow);
+    border-radius: 20px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.profile{
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.profile img{
+    float: left;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+.profile h3{
+    font-size: 18px;
+    font-weight: bold;
+    color: var(--black);
+    text-transform: capitalize;
+}
+
+.pages,
+.group,
+.games{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+.mini-headign{
+    text-transform: uppercase;
+    color: var(--gray);
+    margin-bottom: 15px;
+}
+.pages label,
+.group label,
+.games label{
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.pages label img,
+.group label img,
+.games label img{
+    width: 35px;
+    margin-right: 8px;
+    box-shadow: 0 2px 5px 0 var(--shadow);
+    padding: 5px;
+    border-radius: 8px;
+}
+.pages label span,
+.group label span,
+.games label span{
+    color: var(--gray);
+    font-size: 14px;
+}
+.see-more-btn{
+    padding: 8px;
+    background: var(--white);
+    border: none;
+    box-shadow: 0 2px 6px 0 var(--shadow);
+    border-radius: 50px;
+    color:  #ff0000;
+    font-weight: 600;
+    font-size: 15px;
+    margin-top: 10px;
+    transition: .4s;
+}
+.see-more-btn i{
+    font-size: 12px;
+    margin-left: 5px;
+}
+.see-more-btn:hover{
+    background: #f1f3f5;
+    box-shadow: 0 5px 6px 0 #76767663;
+    cursor: pointer;
+}
+.explore{
+    display: flex;
+    flex-direction: column;
+}
+.explore a{
+    color:  #ff0000;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+.explore a:hover{
+    color: #ff0000;
+}
+.explore a i{
+    margin-right: 10px;
+    width: 25px;
+    height: 25px;
+    box-shadow: 0 2px 5px 0 var(--shadow);
+    border-radius: 8px;
+    text-align: center;
+    line-height: 25px;
+    transition: .4s;
+}
+.explore > div{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    font-weight: 600;
+    color:  #ff0000;
+}
+.darkTheme{
+    width: 40px;
+    height: 24px;
+    background:  #ff0000;
+    margin-right: 12px;
+    border-radius: 50px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.darkTheme span{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    background: white;
+    border-radius: 50px;
+    left: 4px;
+    transition: .5s;
+}
+
+
+
+/* home section end here */
+
+/* Home Center Section */
+.home-center {
+    width: 55%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.home-center-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.messenger {
+    margin-bottom: 20px;
+}
+
+.messenger-search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.messenger-search h4 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+.messenger-search input {
+    width: 60%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.messenger-search button {
+    padding: 10px 15px;
+    background-color: #ff4d4d;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.messenger-search button:hover {
+    background-color: #ff3333;
+}
+
+#map {
+    width: 100%;
+    height: 400px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
+#cityDetail {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #555;
+}
+
+/* Home Right Section */
+.home-right {
+    width: 20%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.home-right-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.event-friend {
+    margin-top: 20px;
+}
+
+.friend h3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.friend .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.friend button {
+    background-color: #ff4d4d;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.friend button:hover {
+    background-color: #ff3333;
+}
+
+/* Dark Mode Styles */
+.dark-color {
+    background-color: #121212;
+    color: #ddd;
+}
+
+.button-Active {
+    background-color: #ff3333 !important;
+}
+
+button.darkTheme {
+    background-color: #ff4d4d;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+button.darkTheme:hover {
+    background-color: #ff3333;
+}
+
+hr {
+    border-top: 1px solid #ddd;
+    margin: 20px 0;
+}
+.shop-card {
+    background-color: #ffe5e5; /* Light red background */
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 15px 0;
+    max-width: 300px;
+    border: 2px solid #ff4d4d; /* Red border */
+}
+
+.shop-card h3 {
+    font-size: 1.5em;
+    color: #b30000; /* Dark red text */
+    margin-bottom: 10px;
+}
+
+.shop-card p {
+    font-size: 1em;
+    color: #800000; /* Deep red text for paragraphs */
+    margin-bottom: 8px;
+}
+
+.shop-card a {
+    color: #ff3333; /* Bright red for links */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.shop-card a:hover {
+    text-decoration: underline;
+    color: #cc0000; /* Darker red on hover */
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+    .home {
+        flex-direction: column;
+    }
+
+    .home-left, .home-center, .home-right {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
