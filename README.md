@@ -2,7 +2,7 @@
 
 This is a fully functional web application create with #ballerina backend 💃💃 and #mongodb data bases 🛢🛢
 
-## How Set Up ballerina To Work  
+## How Set Up ballerina 
 
 - First clone the project  🔗 
 - Install Ballerina to computure.
