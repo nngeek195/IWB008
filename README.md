@@ -10,7 +10,7 @@ This is a fully functional web application create with #ballerina backend ğŸ’ƒğŸ
      ```bash
    bal new backend
 
-- Then replace that created backend folder to clone folder  
+- Then replace that created backend folder into clone folder  
 
 ## How Set Up Data Base 
 
