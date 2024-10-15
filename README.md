@@ -31,5 +31,9 @@ This is a fully functional web application create with #ballerina backend ğŸ’ƒğŸ
 
 - If you need to skip the loging/signup form without running backend please use follow as username and password then you will able to pass the step
     (this step I just use for code viewers to easy their work)
-  - username = admin
-  - password = admin 
+  - username
+     ```bash
+     admin
+  - password
+     ```bash
+    admin 
