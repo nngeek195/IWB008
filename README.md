@@ -2,16 +2,16 @@
 
 This is a fully functional web application create with #ballerina 💃💃 backend and #mongodb data bases 🛢🛢
 
-# How Set Up ballerina To Work 🔗 🔗 
+# How Set Up ballerina To Work  
 
-- First clone 
+- First clone  🔗 
 - Install Ballerina to computure.
 - Create a ballerina work space as backend ::{ command - bal new backend  }
 - Then replace that created backend folder to clone folder  
 
-# How Set Up Data Base 📥📥
+# How Set Up Data Base 
 
-- Donwload mongodb local data base 
+- Donwload mongodb local data base 📥
     Link - https://www.mongodb.com/try/download/community
   
 - Then create a connection as admin
