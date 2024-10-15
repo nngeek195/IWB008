@@ -20,7 +20,8 @@ This is a fully functional web application create with #ballerina backend 💃�
 - In city database create a collection as "city" and import the json file which I have given in the souce file (/json/city.city.json)
 - As same make collection in shops database as "shops" and import json file which I have given (/json/shops.shops.json)
 - note- in city json file contain real set of data but in shops json file is just a file create for demostration
-*Then you can run the program* 
+
+  #### Now you can run the program
 
 ## Special 💎💎
 
