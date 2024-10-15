@@ -4,7 +4,7 @@ This is a fully functional web application create with #ballerina backend 💃�
 
 # How Set Up ballerina To Work  
 
-- First clone  🔗 
+- First clone the project  🔗 
 - Install Ballerina to computure.
 - Create a ballerina work space as backend ::{ command - bal new backend  }
 - Then replace that created backend folder to clone folder  
