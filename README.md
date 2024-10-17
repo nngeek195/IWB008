@@ -38,5 +38,4 @@ This is a fully functional web application create with #ballerina backend ğŸ’ƒğŸ
      ```bash
     admin
 
-     ![WhatsApp Image 2024-10-17 at 10 26 24_720e550e](https://github.com/user-attachments/assets/f5b7515d-3f2b-48bd-9742-9258ced376ff)
 
